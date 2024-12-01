@@ -58,7 +58,9 @@ def get_weather_forecast(location_id, api_key):
         print(f"request failed, state code:{response.status_code}，error message:{response.text}")
         return None
 
-gmaps = googlemaps.Client(key='AIzaSyBpBB3WJkCUsAa2nFp89BcB3nT5SArET5o')
+G_api_key = os.getenv('GOOGLE_MAPS_API_KEY')
+
+gmaps = googlemaps.Client(key= G_api_key)
 
 # Geocoding an address
 def get_geocoding(input_address):
@@ -73,12 +75,14 @@ def get_recommandation(input_address): # for restaurant
     url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json"
     lat,lng = get_geocoding(input_address)
 
+    api_key = os.getenv('GOOGLE_MAPS_API_KEY')
+
     params = {
         "location": f"{lat},{lng}",
         "radius": "1500",
         "type": "restaurant",  # restaurant or shopping_mall
         "keyword": "eating",  # eating
-        "key": "AIzaSyBpBB3WJkCUsAa2nFp89BcB3nT5SArET5o"  # my gmaps key
+        "key": api_key  # my gmaps key
     }
 
     # Sent GET request
@@ -111,12 +115,14 @@ def get_shopping_mall(input_address):
     url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json"
     lat, lng = get_geocoding(input_address)
 
+    api_key = os.getenv('GOOGLE_MAPS_API_KEY')
+
     params = {
         "location": f"{lat},{lng}",
         "radius": "1500",
         "type": "shopping_mall",  # restaurant or shopping_mall
         "keyword": "",  # eating
-        "key": "AIzaSyBpBB3WJkCUsAa2nFp89BcB3nT5SArET5o"  # my gmaps key
+        "key": api_key  # my gmaps key
     }
 
     # sent GET request
