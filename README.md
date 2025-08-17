@@ -19,9 +19,7 @@
 
 </div>
 
-![profile picture](image/profile picture.jpg)
-
-![Visitor Count](https://profile-counter.glitch.me/YzYhhhstudy/count.svg)
+![profile picture](image/scene.jpg)
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=YzYhhhstudy
 
