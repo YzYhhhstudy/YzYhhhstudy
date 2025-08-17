@@ -19,7 +19,7 @@
 
 </div>
 
-![profile picture](image/scene.jpg)
+![live gif](image/draw_sword.gif)
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=YzYhhhstudy
 
