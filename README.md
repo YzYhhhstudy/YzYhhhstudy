@@ -1,19 +1,19 @@
-<h2 align="center">👋 Hi there, I’m Zoey (@YzYhhhstudy)</h2>
+<h2 align="center">👋 Hi there, I’m Zeyuan (Zayn) Yang (@YzYhhhstudy)</h2>
 
 <p align="center">
 <pre>
-🎓  Master's student in Computer Science at GWU               
+🎓  Master's student in Computer Science @ GWU               
 🤖  Passionate about AI and Backend Development               
 🌱  Learning system design, distributed systems, cloud infra  
 💼  Looking for SDE - Backend full-time opportunities         
-📫  Reach me: zoeyfz2h@gmail.com                             
+📫  Reach me: zayn.yang.ai@gmail.com                             
 </pre>
 </p>
 
 ---
 
 ### 🛠️ Tech Stack
-- Languages: Python, Java, JavaScript
+- Languages: Python, Java, JavaScript, C
 - Backend: Node.js, FastAPI, Spring Boot
 - Database: MongoDB, MySQL
 - Tools: Git, Docker, AWS
