@@ -20,6 +20,20 @@
 
 ---
 
+### 🚀 Featured Projects
+
+| Project | What & Why | Stack | Try it |
+|---|---|---|---|
+| **[LeetLog](https://github.com/YzYhhhstudy/leetlog)** 🎯 | Auto-captures your LeetCode grind into a local Obsidian vault — typing starts the timer, AC saves your code & stats. Network-layer interception (no DOM scraping), 100% local-first. | Chrome Extension (MV3) · Python bridge server | [Repo](https://github.com/YzYhhhstudy/leetlog) |
+| **[MeetSync](https://github.com/YzYhhhstudy/meetsync)** 🌍 | Cross-timezone meeting scheduler: visualizes everyone's working-hour overlap, drag to place a meeting with 15-min precision, DST handled automatically via Intl API. | Vanilla JS · zero-dependency | [Live](https://yzyhhhstudy.github.io/meetsync/) |
+| **[DDL Radar](https://github.com/YzYhhhstudy/paper-deadlines)** 📡 | Tracks ~70 CS conference deadlines across 16 areas — live countdowns, CCF-rank filters, abstract-deadline warnings, one-click .ics calendar export. | Vanilla JS · data-driven | [Live](https://yzyhhhstudy.github.io/paper-deadlines/) |
+| **[Daily Toolbox](https://github.com/YzYhhhstudy/daily-toolbox)** 🧰 | Unit / currency / timestamp converters in one page, with live ECB exchange rates and offline fallback. | Vanilla JS · Frankfurter API | [Live](https://yzyhhhstudy.github.io/daily-toolbox/) |
+| **[AUTOSCAN](https://github.com/YzYhhhstudy/car-selector)** ◈ | Cyberpunk-terminal-styled car picker: multi-dimensional filtering (budget / fuel / rigidity) + a Python scraper for listings data. | Vanilla JS · Python crawler | [Repo](https://github.com/YzYhhhstudy/car-selector) |
+
+> All web apps are dependency-free vanilla JS, deployed on GitHub Pages.
+
+---
+
 ### 📌 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YzYhhhstudy&show_icons=true&theme=github_dark&hide=stars" />
