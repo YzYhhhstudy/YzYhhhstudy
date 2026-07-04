@@ -36,7 +36,11 @@
 
 ### 📌 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YzYhhhstudy&show_icons=true&theme=github_dark&hide=stars" />
+  <img src="profile-summary-card-output/github_dark/0-profile-details.svg" width="800" alt="Profile details" />
+</p>
+<p align="center">
+  <img src="profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="Stats" />
+  <img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="Top languages" />
 </p>
 <p align="center"><b>Knowledge isn't free. You need to pay attention.</b></p>
 <div id="title" align=center>
@@ -54,8 +58,6 @@
 <p align="center">
   <img src="image/draw-sword.gif" alt="live gif" style="max-width:  100%; height: auto;" />
 </p>
-
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=YzYhhhstudy
 
 <!---
 YzYhhhstudy/YzYhhhstudy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
