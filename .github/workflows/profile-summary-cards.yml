@@ -2,7 +2,7 @@ name: GitHub Profile Summary Cards
 
 on:
   schedule:
-    - cron: "0 8 * * *" # 每天 UTC 8:00 自动刷新
+    - cron: "0 */6 * * *" # 每 6 小时自动刷新
   workflow_dispatch:
 
 permissions:
